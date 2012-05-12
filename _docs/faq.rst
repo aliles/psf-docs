@@ -116,7 +116,7 @@ Yes. All funds are held and managed in USD - no bitcoins, euros or other
 currencies are held by the PSF, though if issuing international payments, we
 will convert the funds into the proper local coin of the realm.
 
-For Australia, we convert it into `drop bears`_.
+For Australia, we convert it into `drop bears`_ via the `hoop snake`_ exchange.
 
 How does the PSF get funding ?
 ==============================
@@ -250,6 +250,7 @@ How much influence does the PSF have on projects such as PyPI ?
 .. _Twisted Project: http://twistedmatrix.com
 .. _Using Python to Create Robotic Simulations for Planetary Exploration (PyCon 2010) : http://pyvideo.org/video/274/pycon-2010--using-python-to-create-robotic-simula
 .. _drop bears: http://en.wikipedia.org/wiki/Drop_bear
+.. _hoop snake: http://en.wikipedia.org/wiki/Hoop_snake
 .. _resolutions: http://www.python.org/psf/records/board/resolutions/
 .. _the Foundation's membership page: http://www.python.org/psf/membership/
 .. _the Foundation's donations page: http://www.python.org/psf/donations/
